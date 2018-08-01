@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+97ff0ce3a13a6d7774057184d4d630a33b4155e8 refs/remotes/origin/edge_device
+8c08600737ff01ea1ef18d033138ab7c9ea07177 refs/remotes/origin/master
+f3d5bacc3fb20afe89ff1574d2a9c47ac11415a6 refs/remotes/origin/new_sensors
+37558ccda39c10e168b88e3c05154a0b3355775d refs/remotes/origin/v2018
+ff619d10a189700c6a023f9cf0c59f0e413668bc refs/remotes/origin/web-integration

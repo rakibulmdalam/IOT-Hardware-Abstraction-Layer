@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://gitlab.lrz.de/IoT-Practicum-Group/sensors.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "edge_device"]
+	remote = origin
+	merge = refs/heads/edge_device
+[user]
+	email = ga84doy@mytum.de
+	name = rakib
+[atomGithub]
+	historySha = 00d658d7f6d22d86082e2ff3c46817cd62d51e1c

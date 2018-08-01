@@ -1,0 +1,80 @@
+0000000000000000000000000000000000000000 97ff0ce3a13a6d7774057184d4d630a33b4155e8 Rakib <rakib@workstation.(none)> 1529951326 +0200	clone: from https://gitlab.lrz.de/IoT-Practicum-Group/sensors.git
+97ff0ce3a13a6d7774057184d4d630a33b4155e8 ffef505c7b2451db66775ac5cdeddb290aeb150f rakib <ga84doy@mytum.de> 1529951722 +0200	commit: conditional deletion of project directory
+ffef505c7b2451db66775ac5cdeddb290aeb150f f85c65861ba60560c11106a75285fd7829cf27ce rakib <ga84doy@mytum.de> 1532594646 +0200	pull origin edge_device: Fast-forward
+f85c65861ba60560c11106a75285fd7829cf27ce aff054578db46b17c0199e980564c1a20905a18f rakib <ga84doy@mytum.de> 1532643763 +0200	commit: install.sh changed
+aff054578db46b17c0199e980564c1a20905a18f 8bebf7e78484b09976a71bd0176d5971318d3653 rakib <ga84doy@mytum.de> 1532674523 +0200	commit: mqtt protocol registered
+8bebf7e78484b09976a71bd0176d5971318d3653 9491114f6a21d2be50c1274bfd3c367762444abd rakib <ga84doy@mytum.de> 1532674536 +0200	pull origin edge_device: Merge made by the 'recursive' strategy.
+9491114f6a21d2be50c1274bfd3c367762444abd ca90ac881912f195169bc8d3ccbf9afb6b17c7b4 rakib <ga84doy@mytum.de> 1532675097 +0200	commit: init file updated for mqtt
+ca90ac881912f195169bc8d3ccbf9afb6b17c7b4 49b7072614f868a71e3ae6db075fecaa70871e11 rakib <ga84doy@mytum.de> 1532676675 +0200	commit: mqtt reformatted
+49b7072614f868a71e3ae6db075fecaa70871e11 a4d7bec9d69dbbd689edc8d12cda3bc2d1a0cef2 rakib <ga84doy@mytum.de> 1532677098 +0200	commit: minor updates
+a4d7bec9d69dbbd689edc8d12cda3bc2d1a0cef2 71df3c04ae44f96004d0cf6ef533463505dcea0f rakib <ga84doy@mytum.de> 1532677211 +0200	commit: minor update
+71df3c04ae44f96004d0cf6ef533463505dcea0f 1cc328a3fffd79794f86ce18cea4660ec7366556 rakib <ga84doy@mytum.de> 1532677457 +0200	commit: bug fix
+1cc328a3fffd79794f86ce18cea4660ec7366556 726d5103f61ae8d6d224624b249b3c182ce28632 rakib <ga84doy@mytum.de> 1532677666 +0200	commit: minor update
+726d5103f61ae8d6d224624b249b3c182ce28632 42c4e61813fdb26ff7128c0235960a3025d7f479 rakib <ga84doy@mytum.de> 1532681652 +0200	commit: lots of changes in device and protocols
+42c4e61813fdb26ff7128c0235960a3025d7f479 29b7cd2ee9bc3e35ff44d9c22accf8948549c1a4 rakib <ga84doy@mytum.de> 1532681717 +0200	commit: bug fix in device.py
+29b7cd2ee9bc3e35ff44d9c22accf8948549c1a4 93ce34d2f3ab4fbaf1730e686af5a5dcc3a72435 rakib <ga84doy@mytum.de> 1532681848 +0200	commit: bug fix
+93ce34d2f3ab4fbaf1730e686af5a5dcc3a72435 7d80d2fb6d3e761dfd7cc53b4c1f64f6b83d9a8c rakib <ga84doy@mytum.de> 1532687401 +0200	commit: testing
+7d80d2fb6d3e761dfd7cc53b4c1f64f6b83d9a8c f81b256f4f790370d8d2e2ea9e4cd7d09a79dc67 rakib <ga84doy@mytum.de> 1532687899 +0200	commit: handling connection errors
+f81b256f4f790370d8d2e2ea9e4cd7d09a79dc67 147b09768f86fe6b412f86e9331d1c6fae32a238 rakib <ga84doy@mytum.de> 1532688005 +0200	commit: error handling again
+147b09768f86fe6b412f86e9331d1c6fae32a238 1659adff89e2b63eee71bf8466087099ed12e4ca rakib <ga84doy@mytum.de> 1532688335 +0200	commit: bug fix
+1659adff89e2b63eee71bf8466087099ed12e4ca e7b6dc82395acce271ad884ab466769aa95866c8 rakib <ga84doy@mytum.de> 1532689687 +0200	commit: json dump before sending to broker
+e7b6dc82395acce271ad884ab466769aa95866c8 bd1008ed80940eea90350d946fc7531b5c9951d8 rakib <ga84doy@mytum.de> 1532690255 +0200	commit: callback check
+bd1008ed80940eea90350d946fc7531b5c9951d8 9cf053611517b3a83dd3637fa86a11eb08f4e4f2 rakib <ga84doy@mytum.de> 1532690382 +0200	commit: bug fix
+9cf053611517b3a83dd3637fa86a11eb08f4e4f2 27aa6337540173a30f0e4cacb8bac8e6e824a85f rakib <ga84doy@mytum.de> 1532690761 +0200	commit: callback testing
+27aa6337540173a30f0e4cacb8bac8e6e824a85f c3be3c3013feb1cf14d19887b8ae4cb696d509c3 rakib <ga84doy@mytum.de> 1532733707 +0200	commit: division of wb
+c3be3c3013feb1cf14d19887b8ae4cb696d509c3 a4c8acfa578c95d23d9f272597b76981fca453c6 rakib <ga84doy@mytum.de> 1532733723 +0200	pull origin edge_device: Merge made by the 'recursive' strategy.
+a4c8acfa578c95d23d9f272597b76981fca453c6 b3b68d48bcd89d7c87f3bf6357339cf3398cd6cd rakib <ga84doy@mytum.de> 1532734064 +0200	commit: wb divided and added to enum list
+b3b68d48bcd89d7c87f3bf6357339cf3398cd6cd 20bf3bc0c53cfd32534a424dd7c62d3e959c610f rakib <ga84doy@mytum.de> 1532762821 +0200	commit: module installation in install.sh
+20bf3bc0c53cfd32534a424dd7c62d3e959c610f 5535d598b425b48bd088aa6a95051592a3d1d8ff rakib <ga84doy@mytum.de> 1532763865 +0200	commit: checking mqtt
+5535d598b425b48bd088aa6a95051592a3d1d8ff b970b9e18c112365ab9257d63e7908da8719dbfa rakib <ga84doy@mytum.de> 1532764157 +0200	commit: disabling log sending
+b970b9e18c112365ab9257d63e7908da8719dbfa 10c26f38af79b1ef593081cc506312c26df7e651 rakib <ga84doy@mytum.de> 1532764492 +0200	commit: debugging
+10c26f38af79b1ef593081cc506312c26df7e651 fc128f12f361cc92451b937afd67c4bc854ef06d rakib <ga84doy@mytum.de> 1532764851 +0200	commit: debugging mqttc
+fc128f12f361cc92451b937afd67c4bc854ef06d f0ee90d7bcbcb6d779d04fe4fea831e1c331ce84 rakib <ga84doy@mytum.de> 1532765649 +0200	commit: debugging
+f0ee90d7bcbcb6d779d04fe4fea831e1c331ce84 ea32a171b2e185538e0ca0b662622c4ac6995150 rakib <ga84doy@mytum.de> 1532766489 +0200	commit: loop mqtt checks
+ea32a171b2e185538e0ca0b662622c4ac6995150 f39e7146de53199d9bd0741699e513a31c1f453c rakib <ga84doy@mytum.de> 1532766615 +0200	commit: loop checks
+f39e7146de53199d9bd0741699e513a31c1f453c 59f3acfe8bb21373dc91ec89db6d45c6e2196fd1 rakib <ga84doy@mytum.de> 1532810224 +0200	pull origin edge_device: Fast-forward
+59f3acfe8bb21373dc91ec89db6d45c6e2196fd1 a51826fdd27822e5274cad7efcdabaab875b0bc2 rakib <ga84doy@mytum.de> 1532812710 +0200	commit: db usage before sending data
+a51826fdd27822e5274cad7efcdabaab875b0bc2 9e70b7f48fff5fdfb779929042bdc91774457cb3 rakib <ga84doy@mytum.de> 1532813794 +0200	commit: db insert
+9e70b7f48fff5fdfb779929042bdc91774457cb3 425bb33df2cb057a378d9eb316201dc4fa04775e rakib <ga84doy@mytum.de> 1532813871 +0200	commit: db debug
+425bb33df2cb057a378d9eb316201dc4fa04775e 34ea27dac57fb2e6d00e2ed07a2ceae0c30029c5 rakib <ga84doy@mytum.de> 1532814550 +0200	commit: db test
+34ea27dac57fb2e6d00e2ed07a2ceae0c30029c5 9140e95ca57055260af207e12f641fdfe8876d3f rakib <ga84doy@mytum.de> 1532814789 +0200	commit: db test
+9140e95ca57055260af207e12f641fdfe8876d3f 18fea0a15039119b7ea1854d0c82e8546d0fbe0b rakib <ga84doy@mytum.de> 1532815053 +0200	commit: db tested
+18fea0a15039119b7ea1854d0c82e8546d0fbe0b 062cf9c6a1f1d6756ffe44d435708467e59a9ea7 rakib <ga84doy@mytum.de> 1532815789 +0200	commit: sensor failure handling
+062cf9c6a1f1d6756ffe44d435708467e59a9ea7 61e8a24fce42c5622602084617a090e8c7d038e6 rakib <ga84doy@mytum.de> 1532816577 +0200	commit: error propagating
+61e8a24fce42c5622602084617a090e8c7d038e6 60927dea613109adf27c3d995fb2222ea3cea3c6 rakib <ga84doy@mytum.de> 1532818195 +0200	commit: support for odroid for GPIO
+60927dea613109adf27c3d995fb2222ea3cea3c6 719d6ed78628c09071261241c44037c69eae8213 rakib <ga84doy@mytum.de> 1532818525 +0200	commit: odroid support added
+719d6ed78628c09071261241c44037c69eae8213 320be1f7120274472f5b8071ad189cd96291b198 rakib <ga84doy@mytum.de> 1532818641 +0200	commit: odroid support added
+320be1f7120274472f5b8071ad189cd96291b198 dd7c2f887ae1326e624544a9407e6323148b0871 rakib <ga84doy@mytum.de> 1532819836 +0200	commit: testing segmentation fault
+dd7c2f887ae1326e624544a9407e6323148b0871 12b60d7172298b1ccd0a90d84691b079b998bc50 rakib <ga84doy@mytum.de> 1532819907 +0200	commit: sf: segmentation fault debuggin
+12b60d7172298b1ccd0a90d84691b079b998bc50 25259f71470a05ce3d0b35def68cd0c64b9382b2 rakib <ga84doy@mytum.de> 1532819938 +0200	commit: sf debug
+25259f71470a05ce3d0b35def68cd0c64b9382b2 53d7401e2253d78867890b625d4d148b8181f861 rakib <ga84doy@mytum.de> 1532820006 +0200	commit: sf debug
+53d7401e2253d78867890b625d4d148b8181f861 a0eb106a63439533861587dff548009c8d35ed7c rakib <ga84doy@mytum.de> 1532820107 +0200	commit: sf debug
+a0eb106a63439533861587dff548009c8d35ed7c 33e06f1a1da06a5487da34b9b7acb8faea0eec3b rakib <ga84doy@mytum.de> 1532820165 +0200	commit: sf debug
+33e06f1a1da06a5487da34b9b7acb8faea0eec3b 71a98f6c656d88c747e6b346d6bc33a1894e7f32 rakib <ga84doy@mytum.de> 1532820262 +0200	commit: sf debug
+71a98f6c656d88c747e6b346d6bc33a1894e7f32 062cf9c6a1f1d6756ffe44d435708467e59a9ea7 rakib <ga84doy@mytum.de> 1532820587 +0200	reset: moving to 062cf9c6
+062cf9c6a1f1d6756ffe44d435708467e59a9ea7 71a98f6c656d88c747e6b346d6bc33a1894e7f32 rakib <ga84doy@mytum.de> 1532820694 +0200	pull origin edge_device: Fast-forward
+71a98f6c656d88c747e6b346d6bc33a1894e7f32 062cf9c6a1f1d6756ffe44d435708467e59a9ea7 rakib <ga84doy@mytum.de> 1532820741 +0200	reset: moving to 062cf9c6
+062cf9c6a1f1d6756ffe44d435708467e59a9ea7 9adfa88e09618a30a2281840ea2aac2ecbfcde57 rakib <ga84doy@mytum.de> 1532820849 +0200	commit: test
+9adfa88e09618a30a2281840ea2aac2ecbfcde57 6b140bc462402f93c5f59163ea17a0b8a266b9c7 rakib <ga84doy@mytum.de> 1532821222 +0200	commit: handling no sensor error
+6b140bc462402f93c5f59163ea17a0b8a266b9c7 cda9277fa834357f14b4fe3fef3a29e30c67a8c9 rakib <ga84doy@mytum.de> 1532821298 +0200	commit: db error debug
+cda9277fa834357f14b4fe3fef3a29e30c67a8c9 fb93d1a0700b1eebc97f4ec751443d6bb1c4cff4 rakib <ga84doy@mytum.de> 1532821373 +0200	commit: db debug
+fb93d1a0700b1eebc97f4ec751443d6bb1c4cff4 d30184edfd7ddff36ee11bcc0baeca408ac8caad rakib <ga84doy@mytum.de> 1532821525 +0200	commit: db test
+d30184edfd7ddff36ee11bcc0baeca408ac8caad 86fb220295d03d6d927a882bb41024f7fe51461c rakib <ga84doy@mytum.de> 1532821592 +0200	commit: db test
+86fb220295d03d6d927a882bb41024f7fe51461c fe1d87f9208fa64be60f4fe97a8a763391567c0a rakib <ga84doy@mytum.de> 1532821689 +0200	commit: db test
+fe1d87f9208fa64be60f4fe97a8a763391567c0a eab9b4f00969ee62a6dff57da810058d2faad3dd rakib <ga84doy@mytum.de> 1532821740 +0200	commit: db test
+eab9b4f00969ee62a6dff57da810058d2faad3dd 4f55f2a173f8a8fd2bc309a0e58fb71b3c80655b rakib <ga84doy@mytum.de> 1532822227 +0200	commit: db testing
+4f55f2a173f8a8fd2bc309a0e58fb71b3c80655b ef4e3ed653609805b68359831b310d74e53f15d0 rakib <ga84doy@mytum.de> 1532822404 +0200	commit: delaying device initiation
+ef4e3ed653609805b68359831b310d74e53f15d0 fdefd866057c83f6b1261edf528098cf7a88e5a9 rakib <ga84doy@mytum.de> 1532822812 +0200	commit: not able to read from sensor error handled
+fdefd866057c83f6b1261edf528098cf7a88e5a9 02c58c96b30af7500e825de7a0b8fe437ea9bb66 rakib <ga84doy@mytum.de> 1532902626 +0200	pull origin edge_device: Fast-forward
+02c58c96b30af7500e825de7a0b8fe437ea9bb66 436e8ab98ea31b75047facba8d0db13679c8b386 rakib <ga84doy@mytum.de> 1532902832 +0200	commit: reducing prints
+436e8ab98ea31b75047facba8d0db13679c8b386 186e7f0bd76096328caef7ca720b845f44cd1e60 rakib <ga84doy@mytum.de> 1532903127 +0200	commit: reducing prints
+186e7f0bd76096328caef7ca720b845f44cd1e60 24543438dd1b0a86411a5b5fc8695f644f3659df rakib <ga84doy@mytum.de> 1532903466 +0200	commit: handling error in a nicer way
+24543438dd1b0a86411a5b5fc8695f644f3659df 63ee049869a859b6d7ec403e2a52b35764b12955 rakib <ga84doy@mytum.de> 1532903567 +0200	commit: bug fix
+63ee049869a859b6d7ec403e2a52b35764b12955 7b0ece41a2eed3beac20868e98598a4f56e3bf62 rakib <ga84doy@mytum.de> 1532903668 +0200	commit: checking thread exit
+7b0ece41a2eed3beac20868e98598a4f56e3bf62 5437a753c27c815e6cdd601feea97ee67fa289a8 rakib <ga84doy@mytum.de> 1532903809 +0200	commit: trying forever in case of disconnected sensor
+5437a753c27c815e6cdd601feea97ee67fa289a8 2e1cd2de42cc0425233fd5f73a4228f3d966c5ee rakib <ga84doy@mytum.de> 1532905603 +0200	commit: reduced prints
+2e1cd2de42cc0425233fd5f73a4228f3d966c5ee 96869ea5fee65c817d157511123da3d23923d2df rakib <ga84doy@mytum.de> 1532905719 +0200	commit: syntax bug
+96869ea5fee65c817d157511123da3d23923d2df af3d1ef3cd9d6566bbc6e770275ff3853f634920 rakib <ga84doy@mytum.de> 1532905976 +0200	commit: showing success
+af3d1ef3cd9d6566bbc6e770275ff3853f634920 53ec4e76cf93b7bb638ff6fea7b7b129afa6bd5a rakib <ga84doy@mytum.de> 1532906530 +0200	commit: db for each sensor
+53ec4e76cf93b7bb638ff6fea7b7b129afa6bd5a 3501f65c7be274c0066584119412b760294c498b rakib <ga84doy@mytum.de> 1533133079 +0200	commit: m2m communication added
+3501f65c7be274c0066584119412b760294c498b 7aa6e46bd9d66dc3fdb928cc80f3f9726d451a4f rakib <ga84doy@mytum.de> 1533133092 +0200	pull origin edge_device: Merge made by the 'recursive' strategy.
